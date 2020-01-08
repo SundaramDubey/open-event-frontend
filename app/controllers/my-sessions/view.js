@@ -41,5 +41,4 @@ export default class extends Controller {
         this.set('isProposalDeleteModalOpen', false);
       });
   }
-}
-}
+}               
